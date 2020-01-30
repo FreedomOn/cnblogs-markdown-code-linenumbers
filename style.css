@@ -20,6 +20,7 @@
 
 code.hljs{
   display: inline-block !important;
+  vertical-align: top !important;
 }
 
 .hljs-keyword,
